@@ -1,0 +1,21 @@
+# Meeting
+template:: Meeting Template
+	- Agenda :
+		- 1
+		- 2
+	- Attendees :
+		- A1
+		- A2
+	- ## Discussed
+		- T1
+		- T2
+	- ## Next Steps
+		- S1
+		- S2
+	- ## Action items
+		- P1
+			- A1
+			- A2
+		- P2
+			- A1
+			-
