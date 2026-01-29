@@ -11,6 +11,7 @@
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
  :preferred-workflow :todo
+ :markers [:todo :doing :waiting :done :cancelled]
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -299,7 +300,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Templates" "Project"]
+ :favorites ["TODO" "Templates" "Project"]
 
  ;; Set flashcards interval.
  ;; Expected value:
