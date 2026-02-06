@@ -10,8 +10,7 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :todo
- :markers [:todo :doing :waiting :done :cancelled]
+ :preferred-workflow :now
 
  ;; Exclude directories/files.
  ;; Example usage:
@@ -300,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["To Do's" "TODO" "Templates" "Project"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -423,4 +422,4 @@
  :journal/page-title-format "yyyy-MM-dd"
  :graph/settings {:journal? true
  :builtin-pages? true
- :excluded-pages? true}}
+ :excluded-pages? false}}
