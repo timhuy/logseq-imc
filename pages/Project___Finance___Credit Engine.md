@@ -1,0 +1,2 @@
+- Product owner : Julia Pinochi
+- Project Manager : Revathi Murali
