@@ -1,0 +1,2 @@
+- Role : Manages the [[X4A UAT environment]] from a reseller account perspective.
+-
