@@ -1,0 +1,5 @@
+- Responsible for SAP DRC : [[Luna Gupta]]
+- Business people :
+	- Kamran Abdul - Senior Manager Tax MEA and Credit Gulf, Pakistan & Egypt
+	- Krishnan Lakshman - CFO MEA
+	- Biju Alex - IT Director

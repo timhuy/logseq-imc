@@ -423,4 +423,5 @@
  :journal/page-title-format "yyyy-MM-dd"
  :graph/settings {:journal? true
  :builtin-pages? true
- :excluded-pages? true}}
+ :excluded-pages? true}
+ :editor/preferred-pasting-file? true}
