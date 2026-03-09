@@ -300,7 +300,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["To Do's" "TODO" "Templates" "Project"]
+ :favorites ["Search page" "To Do's" "TODO" "Templates" "Project"]
 
  ;; Set flashcards interval.
  ;; Expected value:
